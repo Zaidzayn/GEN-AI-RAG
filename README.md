@@ -1,4 +1,4 @@
-LangChain RAG Chatbot with Groq LPU
+##LangChain RAG Chatbot with Groq LPU
 A comprehensive LangChain application featuring Retrieval-Augmented Generation (RAG), conversational memory, vector databases, and FastAPI integration using Groq's Language Processing Units (LPU) for high-performance inference.
 🚀 Features
 
